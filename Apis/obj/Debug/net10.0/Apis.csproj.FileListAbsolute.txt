@@ -1,0 +1,14 @@
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\bin\Debug\net10.0\Apis.exe
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\bin\Debug\net10.0\Apis.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\bin\Debug\net10.0\Apis.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\bin\Debug\net10.0\Apis.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\bin\Debug\net10.0\Apis.pdb
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\refint\Apis.dll
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.pdb
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\Apis.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Graficas por Computadora\Apis\Apis\obj\Debug\net10.0\ref\Apis.dll
